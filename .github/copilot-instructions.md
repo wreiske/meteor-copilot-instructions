@@ -115,9 +115,5 @@ Please follow the conventions below to maintain consistency:
   ✅ Instead, handle logic in helpers or use conditionally rendered blocks:
 
   ```html
-  {{#if addClass}}
-    <div class="my-class"></div>
-  {{else}}
-    <div></div>
-  {{/if}}
+  <div class="{{#if addClass}}my-class{{/if}}"></div>
   ```
