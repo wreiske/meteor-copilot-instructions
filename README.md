@@ -5,14 +5,20 @@ This repository contains GitHub Copilot instruction files specifically tailored 
 ## 🚀 Available Framework Instructions
 
 ### Primary Frameworks
-- **[Blaze](/.github/copilot-instructions.md)** - Traditional Meteor templating engine (available)
-- **[React](/.github/copilot-instructions-react.md)** - Popular React integration with Meteor 3.x (coming soon)
-- **[Vue](/.github/copilot-instructions-vue.md)** - Vue.js integration with Meteor 3.x (coming soon)
-- **[Svelte](/.github/copilot-instructions-svelte.md)** - Svelte integration with Meteor 3.x (coming soon)
+- **[Blaze](/.github/copilot-instructions.md)** - Traditional Meteor templating engine ✅
+- **[React](/.github/copilot-instructions-react.md)** - Popular React integration with Meteor 3.x ✅
+- **[Vue](/.github/copilot-instructions-vue.md)** - Vue.js integration with Meteor 3.x ✅
+- **[Svelte](/.github/copilot-instructions-svelte.md)** - Svelte integration with Meteor 3.x ✅
 
 ### Additional Frameworks
-- **[Angular](/.github/copilot-instructions-angular.md)** - Angular integration with Meteor 3.x (coming soon)
-- **[Solid](/.github/copilot-instructions-solid.md)** - SolidJS integration with Meteor 3.x (coming soon)
+- **[Angular](/.github/copilot-instructions-angular.md)** - Angular integration with Meteor 3.x ✅
+- **[Solid](/.github/copilot-instructions-solid.md)** - SolidJS integration with Meteor 3.x ✅
+
+### Community Contributions Welcome
+- **[Preact](/.github/copilot-instructions-preact.md)** - Lightweight React alternative (contribute!)
+- **[Lit](/.github/copilot-instructions-lit.md)** - Web Components with Lit (contribute!)
+- **[Alpine.js](/.github/copilot-instructions-alpine.md)** - Minimal framework for simple interactions (contribute!)
+- **[Vanilla JS](/.github/copilot-instructions-vanilla.md)** - Pure JavaScript patterns with Meteor 3.x (contribute!)
 
 ## 📋 What's Included
 
